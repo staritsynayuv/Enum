@@ -7,4 +7,6 @@ public class Man extends VoterBase  {
     public Gender getGender() {
         return Gender.MALE;
     }
+
+
 }
